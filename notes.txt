@@ -1,0 +1,9 @@
+A JSON document basically consists of lists and dictionaries. There is no obvious way to map such a datastructure on a two-dimensional table.
+
+However, if the JSON file is a flat array, with all objects having the same field names.
+
+The json file provided is such a flat file and matches the structure of the csv file. However, the xls file is not flat, on top of the flat file present in the other 2 files, there iss another structure on top.
+
+This project is easier and faster to implement in Python. I would not use Java at all, it would be overkilled for it. I will however provide both projects.
+
+ 
