@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Leonardo.Santos
+ * @author Leonardo.Santos-Macias
  *
  */
 package com.mariner.jconvert;

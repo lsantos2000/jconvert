@@ -35,7 +35,7 @@ class jconvert {
 			xml2csv.convert_xml2csv();
 			
 			System.out.println("jconvert is converting json2cvs into " + commons.OUTPUT_JSON2CVS);
-			json2cvs.convert_json2cvs();
+			json2csv.convert_json2cvs();
 			
 			System.out.println("jconvert is combining cvs files into " + commons.OUTPUT_COMBINEDCVS);
 			combine_csv.combine_csv(); 
