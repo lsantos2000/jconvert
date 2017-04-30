@@ -1,3 +1,4 @@
+package com.mariner.jconvert;
 /**
  The convert_xml2csv class implements logic to convert an xml file to csv
  
@@ -48,7 +49,10 @@ public class sort_csv {
 	/* Implement the actual sort_csv_files method to fulfill these requirements:
 	 * - All report records with packets-serviced equal to zero should be excluded
 	 * - records should be sorted by request-time in ascending order
+	 * 
+	 * Method returns the total lines
 	 */
+	
     @SuppressWarnings("unchecked")
 	public static int sort_csv_files() throws Exception {
         BufferedReader reader = new BufferedReader(new FileReader(commons.OUTPUT_COMBINEDCVS));

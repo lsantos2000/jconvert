@@ -1,11 +1,17 @@
+package com.mariner.jconvert;
 /**
- The jconvert class implements an application that implements the following requirements:
+ The jconvert class implements a java main application that implements the following requirements:
 
  Agile Story:
- Points: 13
- Title:
- " As a Mariner, I want to create a Java application that converts, sorts and output 3 different file formats."
-  Description:
+ 
+ Story Points: 13
+ 
+ Story Title:
+ 
+ "As a Mariner, I want to create a Java application that reads, filters and sorts 3 different file formats and 
+  outputs a csv file."
+  
+ Story Description:
 
 	Read the 3 input files reports.json, reports.csv, reports.xml and output a combined CSV file with the following characteristics:
 	

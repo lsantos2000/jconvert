@@ -1,3 +1,4 @@
+package com.mariner.jconvert;
 
 /**
  The commons class implements common static constants.
