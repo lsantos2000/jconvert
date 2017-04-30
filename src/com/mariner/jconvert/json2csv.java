@@ -26,7 +26,7 @@ import org.json.JSONArray; // more json manipulation
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class json2cvs {
+public class json2csv {
 
 	@SuppressWarnings("deprecation")
 	public static void convert_json2cvs() throws Exception {
